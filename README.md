@@ -1,2 +1,2 @@
 # pmpy
-project management with python
+Project Management with Python
